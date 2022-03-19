@@ -1,1 +1,2 @@
-#Look ma, I'm on the Internet! 
+# Stats 220 Assignment 1 2022
+![spongebob meme](
